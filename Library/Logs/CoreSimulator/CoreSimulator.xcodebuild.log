@@ -1,0 +1,11 @@
+Mar  2 21:44:21 dacaiguoguo.local xcodebuild[65471] <Warning>: Error received in service com.apple.CoreSimulator.SimVerificationService event handler: Connection invalid
+Mar  2 21:45:00 dacaiguoguo.local xcodebuild[65485] <Warning>: Error received in service com.apple.CoreSimulator.SimVerificationService event handler: Connection invalid
+Mar  2 21:46:41 dacaiguoguo.local xcodebuild[65496] <Warning>: Error received in service com.apple.CoreSimulator.SimVerificationService event handler: Connection invalid
+Mar  2 21:46:44 dacaiguoguo.local xcodebuild[65500] <Warning>: Error received in service com.apple.CoreSimulator.SimVerificationService event handler: Connection invalid
+Mar  2 21:46:46 dacaiguoguo.local xcodebuild[65504] <Warning>: Error received in service com.apple.CoreSimulator.SimVerificationService event handler: Connection invalid
+Mar  2 21:48:52 dacaiguoguo.local xcodebuild[65524] <Warning>: Error received in service com.apple.CoreSimulator.SimVerificationService event handler: Connection invalid
+Mar  3 20:49:34 dacaiguoguo.local xcodebuild[97209] <Warning>: Error received in service com.apple.CoreSimulator.SimVerificationService event handler: Connection invalid
+Mar  3 20:50:26 dacaiguoguo.local xcodebuild[97239] <Warning>: Error received in service com.apple.CoreSimulator.SimVerificationService event handler: Connection invalid
+Mar  3 20:51:04 dacaiguoguo.local xcodebuild[97249] <Warning>: Error received in service com.apple.CoreSimulator.SimVerificationService event handler: Connection invalid
+Mar  3 20:51:49 dacaiguoguo.local xcodebuild[97265] <Warning>: Error received in service com.apple.CoreSimulator.SimVerificationService event handler: Connection invalid
+Mar  3 20:52:19 dacaiguoguo.local xcodebuild[97277] <Warning>: Error received in service com.apple.CoreSimulator.SimVerificationService event handler: Connection invalid
