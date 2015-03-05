@@ -1,0 +1,17 @@
+A simple php application demonstrating the basics of how to interact with
+Amazon S3.  It requires the Crypt_HMAC and the HTTP_Request modules.  Note that
+this program should only be run on a secure server owned by you, as it passes
+the AWS Secret Access Key  as a query string parameter.  If this were to be
+sniffed off the network or read from a log file, an attacker would be able to
+act as you, perhaps maliciously.  It would be better to hard-code this into a
+file readable only by the web server, or, better yet, from an encrypted file.
+
+
+This software code is made available "AS IS" without warranties of any
+kind.  You may copy, display, modify and redistribute the software
+code either by itself or as incorporated into your code; provided that
+you do not remove any proprietary notices.  Your use of this software
+code is at your own risk and you waive any claim against Amazon
+Digital Services, Inc. or its affiliates with respect to your use of
+this software code. (c) 2006 Amazon Digital Services, Inc. or its
+affiliates.

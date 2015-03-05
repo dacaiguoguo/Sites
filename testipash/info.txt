@@ -1,0 +1,75 @@
++-----------------------------+---------------------------------------------------------+
+| AppIDName                   | LvmamaPad                                               |
+| ApplicationIdentifierPrefix | KB7B8SQENU                                              |
+| CreationDate                | 2015-02-10T06:42:00+00:00                               |
+| Entitlements                | keychain-access-groups: ["KB7B8SQENU.*"]                |
+|                             | get-task-allow: true                                    |
+|                             | application-identifier: KB7B8SQENU.com.Lvmama.LvmamaPad |
+|                             | com.apple.developer.team-identifier: KB7B8SQENU         |
+|                             | aps-environment: development                            |
+| ExpirationDate              | 2016-02-10T06:42:00+00:00                               |
+| Name                        | iOSTeam Provisioning Profile: com.Lvmama.LvmamaPad      |
+| ProvisionedDevices          | cea17a209049df5546e5c40506e4241cf3d6b5d5                |
+|                             | 8f34bf642f52dcac64c45b6722c1192a370ee43c                |
+|                             | d37ed62acf8315a68d9387a54a878a8ac862d07d                |
+|                             | dea09e8396616cffeefa86a633e30362516ccf1f                |
+|                             | 6d44e92ca47ea5cfb1e438fe81b6eda7407d5ef0                |
+|                             | 6d44e92ca47ea5cfb1e438fe81b6eda7407d5ef0                |
+|                             | be5ebd03a3291253897bd095e2b3110b339d7621                |
+|                             | 8dbf1bb42039fa94d9dfee1926894fed1259c02e                |
+|                             | 76bcfedf051c1dff618791e0390d65fdf4e90add                |
+|                             | e9811c67ceaa92431749e51ecff4798b9508c098                |
+|                             | 786af52d3a43998ada793ce8594b41bc656200b5                |
+|                             | 3ad7c903b4f3ac1f6f3d2a39dbd44174429657c2                |
+|                             | 418d1dab8f009c450f1efbe141b921970592969f                |
+|                             | b8b04d24784a8cca62886db3512f34e6389c4646                |
+|                             | 32f4744ae7da92b204e54e46446d4d2ee1ec0079                |
+|                             | 2503af1ed5496daed19d1736d947052749460579                |
+|                             | 639b2f941bf90a33e3a31fc3dc96ecae943c26de                |
+|                             | 65d38ef40ac1ce39eb71570e422652554d96d869                |
+|                             | c71fcde38f22fae47c0185cddf7339472b056d1c                |
+|                             | 010947f8c15c00621aa89af0e0d4f3524abb9a3b                |
+|                             | 6e8f59a4ecafc8e7e4b6dd836e621c833bd19708                |
+|                             | cf1d4183707799fe3dedb4fb027ce031a703c09e                |
+|                             | 58bfa3b11e21635baa89d499980affc8ea641413                |
+|                             | 584183db0d3b5626e82a5fe1ed05846c7a73e644                |
+|                             | 96b58d4215a198d5a3dc50bae8d7600347bbefc7                |
+|                             | 3f08ac73f6c2c7eaba1dd2c0346bc62afe07ab78                |
+|                             | a2589cc8af0002d14e33e4fac16d604012a3581c                |
+|                             | 3beced2f80dcc26323f64c30b1c43270460a7b2b                |
+|                             | 170b3a69a8f3715d0a02049b237a4b1dec985894                |
+|                             | 32a54d1c96ebb16408845e9618ffd86a95ad94df                |
+|                             | f5b2c1704ae4288712c5c08c6bc37491418a9498                |
+|                             | 085e36780f5eadbce74e650d33b63c4a18f68c1b                |
+|                             | bce9b1cfb65d0d65cd624581ba16acf86913d17f                |
+|                             | 5457c51d32d57f4b2449d86098f5f0912dcda332                |
+|                             | 215e954b1a6e98cbf619b0c11a8d0953657b6471                |
+|                             | 284573802cb9891680024d3213e4e980ae705ef6                |
+|                             | 9ac3f9678fa34769f97f342d6ae97f848e68cd26                |
+|                             | 65ad3fdb9c9d2c4a15fc38cd0047a7270037cb6b                |
+|                             | 698e6dd54c1f199d632f939ba0dfba0c5d210a26                |
+|                             | bc3e47ffa00000d2d9a54bc77ec64e95b1a4e8ba                |
+|                             | a6577f18b0de914db8447ee5c4e434b3702766c9                |
+|                             | 1243cc29a2284cdea26e3dee16776dcfcebc2248                |
+|                             | 662d70f6b653cf1c7071df7b362c935a09326dac                |
+|                             | 4b2ae780683254135ee306d2141025e5ae864922                |
+|                             | dbf3e4167b2335f2289818b5c2f4a7f726b63ca1                |
+|                             | 14346e65a9a229ae34dc78227c43c3239ad61319                |
+|                             | fa7ae6227002a53d80127cbbbbaab28001ba15ec                |
+|                             | bf707f7bf2537c9bee613687029e903ea318c3cc                |
+|                             | 2f2245a6faef9310b1cb3e5a581063b85d3dd1fc                |
+|                             | 53587393e08a05588bdd0e5bfa82adf48366700f                |
+|                             | 6fa6f91d038d6f06dcac6a970c361f0e08478c2a                |
+|                             | a052fb65619576f4c8769a4cf6753a0503db204a                |
+|                             | 98e5d87d1475a59d1ecfd8ab78b69d2b627bafdf                |
+|                             | baad3fbd2c19b2728b16488d76cccb7300dafab6                |
+|                             | baad3fbd2c19b2728b16488d76cccb7300dafab6                |
+|                             | 117204ec899239fadfe4c21cada56a6dc07ed78c                |
+|                             | 2e21193465f9a6a99e3e64cf94339958ac50c583                |
+|                             | 82a0c2be083b809988e2f3a50617464f8a1ce192                |
+| TeamIdentifier              | KB7B8SQENU                                              |
+| TeamName                    | Joyu Group                                              |
+| TimeToLive                  | 365                                                     |
+| UUID                        | 5da26f9b-27c0-41e1-887d-75a83defe457                    |
+| Version                     | 1                                                       |
++-----------------------------+---------------------------------------------------------+

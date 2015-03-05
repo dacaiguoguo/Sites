@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=320, height=460, user-scalable=no,
+        initial-scale=1.0" />
+        <title>Install Dev App</title>
+    </head>
+    <style>
+        
+        body{
+            font-size:12px;
+            font-family:"宋体";
+            background-image:url(http://dacai.sinaapp.com/bg-black.png);
+            background-repeat:repeat;
+            COLOR: #0C2B30;
+        }
+    
+        </style>
+    <br/><br/><br/>
+    <body bgcolor="#ffc8ff">
+        <div align="center">
+            <a href="itms-services://?action=download-manifest&url=https://dacai.sinaapp.com/iphone/630/debug/app.plist"  style="color:orange; font-size:24px">
+                630 Install debug App</a>
+        </div>
+        
+        <div align="center">
+            <a href="itms-services://?action=download-manifest&url=https://dacai.sinaapp.com/iphone/630/release/app.plist"  style="color:orange; font-size:24px">
+                630 Install release  App</a>
+        </div>
+        <br/><br/><br/>
+        
+        
+        <div align="center">
+            <a href="itms-services://?action=download-manifest&url=https://dacai.sinaapp.com/iphone/620/debug/app.plist"  style="color:orange; font-size:24px">
+                620 Install debug App</a>
+        </div>
+        
+        <div align="center">
+            <a href="itms-services://?action=download-manifest&url=https://dacai.sinaapp.com/iphone/620/release/app.plist"  style="color:orange; font-size:24px">
+                620 Install release  App</a>
+        </div>
+        <br/><br/><br/>
+        
+        
+        <div align="center">
+            <a href="itms-services://?action=download-manifest&url=https://dacai.sinaapp.com/iphone/610/debug/app.plist"  style="color:orange; font-size:24px">
+                610 Install debug App</a>
+        </div>
+        
+        <div align="center">
+            <a href="itms-services://?action=download-manifest&url=https://dacai.sinaapp.com/iphone/610/release/app.plist"  style="color:orange; font-size:24px">
+                610 Install release  App</a>
+        </div>
+        
+        <br/><br/><br/>
+        
+        
+        <div align="center">
+            <a href="itms-services://?action=download-manifest&url=https://dacai.sinaapp.com/iphone/600/debug/app.plist"  style="color:orange; font-size:24px">
+                600 Install debug App</a>
+        </div>
+        
+        <div align="center">
+            <a href="itms-services://?action=download-manifest&url=https://dacai.sinaapp.com/iphone/600/release/app.plist"  style="color:orange; font-size:24px">
+                600 Install release  App</a>
+        </div>
+        
+        <br/><br/><br/>
+        
+        <div align="center">
+            <a href="itms-services://?action=download-manifest&url=https://dacai.sinaapp.com/iphone/531/debug/app.plist"  style="color:orange; font-size:24px">
+                531 Install debug App</a>
+        </div>
+        <div align="center">
+            <a href="itms-services://?action=download-manifest&url=https://dacai.sinaapp.com/iphone/531/release/app.plist"  style="color:orange; font-size:24px">
+                531 Install release  App</a>
+        </div>
+        
+        
+        <br/><br/><br/>
+        
+        <div align="center">
+            <a href="itms-services://?action=download-manifest&url=https://dacai.sinaapp.com/ipad/310/debug/app.plist"  style="color:orange; font-size:24px">
+                310 pad Install debug App</a>
+        </div>
+        
+        <div align="center">
+            <a href="itms-services://?action=download-manifest&url=https://dacai.sinaapp.com/ipad/310/release/app.plist"  style="color:orange; font-size:24px">
+                310 pad Install release  App</a>
+        </div>
+        <br/><br/><br/>
+        
+        <br/><br/><br/>
+        
+        <div align="center">
+            <a href="itms-services://?action=download-manifest&url=https://dacai.sinaapp.com/ipad/300/debug/app.plist"  style="color:orange; font-size:24px">
+                300 pad Install debug App</a>
+        </div>
+        
+        <div align="center">
+            <a href="itms-services://?action=download-manifest&url=https://dacai.sinaapp.com/ipad/300/release/app.plist"  style="color:orange; font-size:24px">
+                300 pad Install release  App</a>
+        </div>
+        <br/><br/><br/>
+        <div align="center">
+            <a href="itms-services://?action=download-manifest&url=https://dacai.sinaapp.com/ipad/230/release/app.plist"  style="color:orange; font-size:24px">
+                230 pad Install debug App</a>
+        </div>
+        
+        <div align="center">
+            <a href="itms-services://?action=download-manifest&url=https://dacai.sinaapp.com/ipad/230/release/app.plist"  style="color:orange; font-size:24px">
+                230 pad Install release  App</a>
+        </div>
+        <br /><br />
+
+        <div align="center" id="time1" style="color:orange; font-size:20px"> </div><script>
+            setInterval("document.getElementById('time1').innerHTML = new Date().toLocaleString();", 1000);</script>
+</body>
+    
+    <br /><br />
+    
+</html>

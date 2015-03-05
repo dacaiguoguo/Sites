@@ -7,7 +7,7 @@
 		<h1>请选择编译项目</h1>
 		<form name="form1" method="post" action=""> 
 		<?php
-		$filename ='data.json';
+		$filename ='dataauto.json';
 		$jsonstring = file_get_contents($filename);
 		$jsondecode = json_decode($jsonstring, true);
 

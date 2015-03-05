@@ -1,0 +1,9 @@
+https://dacai.sinaapp.com/dev.html
+
+
+https://dacai.sinaapp.com/iphone/531/debug/app.plist
+https://dacai.sinaapp.com/iphone/531/release/app.plist
+
+https://dacai.sinaapp.com/iphone/600/debug/app.plist
+https://dacai.sinaapp.com/iphone/600/release/app.plist
+

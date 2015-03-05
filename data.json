@@ -2,15 +2,15 @@
 	{
 		"name":"Lvmm",
 		"projectname":"Lvmm",
-		"isworkspace":"false",
+		"isworkspace":false,
 		"foldername":"lvmama630",
 		"buildconfig":"Debug"
 	},
 	{
-		"name":"LvmmPad",
-		"projectname":"LvmmPad",
-		"isworkspace":"是否是workspace",
-		"foldername":"项目文件夹名2",
-		"buildconfig":"Release/Debug/其他自定义编译名称"
+		"name":"testipash",
+		"projectname":"testipash",
+		"isworkspace":"false",
+		"foldername":"testipash",
+		"buildconfig":"Debug"
 	}
 ]
